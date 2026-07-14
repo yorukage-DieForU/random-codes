@@ -1,4 +1,4 @@
-
+<img src="assets/rain.gif" width="700">
 
 
 # Software Engineering
