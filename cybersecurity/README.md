@@ -43,4 +43,4 @@ cybersecurity/
 
 God bless us.
 
-  <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/200b4be5-47a0-466a-8099-5aafa6afcd39" />
+  <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/200b4be5-47a0-466a-8099-5aafa6afcd39" />
