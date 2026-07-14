@@ -1,4 +1,4 @@
-<img src="assets/e8f61b64959302d3b04a4db7dbb53f3a.gif" width="700">
+<img src="../assets/e8f61b64959302d3b04a4db7dbb53f3a.gif" width="700">
 
 
 # Software Engineering
